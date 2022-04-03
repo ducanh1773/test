@@ -3,6 +3,6 @@ include <iostream.h>
 using namespace std;
 
 int main(){
-	cout<<"Hello"<<endl;
+	cout<<"Hello Hoang"<<endl;
 
 }
